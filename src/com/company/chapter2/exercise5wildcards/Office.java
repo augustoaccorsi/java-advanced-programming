@@ -1,3 +1,5 @@
+package exercise5wildcards;
+
 class Office extends Building {
     
     @Override

@@ -1,3 +1,5 @@
+package exercise5wildcards;
+
 public class House extends Building {
     
     public int numberOfRooms = 10;

@@ -1,3 +1,5 @@
+package exercise4liskov;
+
 class Building {
     
     @Override

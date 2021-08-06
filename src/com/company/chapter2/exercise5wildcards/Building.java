@@ -1,3 +1,5 @@
+package exercise5wildcards;
+
 class Building {
 
     public int numberOfRooms = 7;
