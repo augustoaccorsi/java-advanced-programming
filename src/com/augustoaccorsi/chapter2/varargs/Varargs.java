@@ -1,4 +1,4 @@
-package exercise3varargs;
+package varargs;
 
 public class Varargs {
 

@@ -1,4 +1,4 @@
-package exercise5wildcards;
+package wildcards;
 
 import java.util.ArrayList;
 import java.util.List;

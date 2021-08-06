@@ -1,4 +1,4 @@
-package exercise2generics;
+package genericsmethods;
 
 import java.util.ArrayList;
 import java.util.List;

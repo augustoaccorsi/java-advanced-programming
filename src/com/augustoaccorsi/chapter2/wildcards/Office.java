@@ -1,4 +1,4 @@
-package exercise5wildcards;
+package wildcards;
 
 class Office extends Building {
     

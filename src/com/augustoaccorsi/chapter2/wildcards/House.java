@@ -1,4 +1,4 @@
-package exercise5wildcards;
+package wildcards;
 
 public class House extends Building {
     

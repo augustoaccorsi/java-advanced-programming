@@ -1,4 +1,4 @@
-package exercise4liskov;
+package liskov;
 
 import java.util.ArrayList;
 import java.util.List;

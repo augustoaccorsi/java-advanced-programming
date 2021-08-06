@@ -1,4 +1,4 @@
-package exercise4liskov;
+package liskov;
 
 class Office extends Building {
     
